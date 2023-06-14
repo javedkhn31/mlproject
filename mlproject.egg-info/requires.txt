@@ -1,3 +1,7 @@
 pandas
 numpy
 seaborn
+Flask
+scikit-learn
+xgboost
+dill
